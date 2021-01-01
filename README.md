@@ -9,5 +9,5 @@ $ git clone https://github.com/Fahad4444/klass.git
 
 $ cd klass
 
-$ python 1555
+$ python klass.py 
 
